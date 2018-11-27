@@ -3,13 +3,6 @@ Apply additional rules to JSON Schema
 
 ## Usage
 
-### Schema
-```json
-
-```
-
-### Validate
-
 ```js
 const jsr = require('json-schema-rules')();
 
